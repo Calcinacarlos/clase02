@@ -1,0 +1,32 @@
+h1{
+    padding: 15px;
+    border: 10px;
+    border-style: dashed;
+    border-color: yellow;
+    color: crimson;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+p{
+    color: indigo;
+    text-align: justify;
+    border-radius: 25px;
+    border-style: solid;
+    padding: 10px;
+}
+/*a poco si muy programador*/
+img
+{
+
+    width: 35%;
+
+}
+body{
+    background-color: aquamarine;
+}
+*
+{
+    font-family: Tahoma;
+    margin: 25px;
+}
